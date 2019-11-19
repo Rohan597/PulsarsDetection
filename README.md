@@ -1,1 +1,1 @@
-Pulsars Detection Using MeanStacking in Python alonwith the Astropy module to read ther HDU 
+Pulsars Detection Using MeanStacking in Python alongwith the Astropy module to read ther HDU 
